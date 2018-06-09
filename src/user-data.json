@@ -1,0 +1,57 @@
+[{
+    "customer": {
+      "name": "Kunal",
+      "email": "kunal@gmail.com",
+      "password":"123456"
+    },
+    "shipping_address": {
+      "first_name": "Kunal",
+      "last_name": "Bednekar",
+      "line_1": "2nd Floor British India House",
+      "line_2": "15 Carliol Square",
+      "city": "Newcastle Upon Tyne",
+      "postcode": "NE1 6UF",
+      "county": "Tyne & Wear",
+      "country": "United Kingdom",
+      "phone": "123456789"
+    },
+    "billing_address": {
+      "first_name": "Kunal",
+      "last_name": "Bednekar",
+      "line_1": "2nd Floor British India House",
+      "line_2": "15 Carliol Square",
+      "city": "Newcastle Upon Tyne",
+      "postcode": "NE1 6UF",
+      "county": "Tyne & Wear",
+      "country": "United Kingdom",
+      "phone": "123456789"
+    }
+  },
+  {
+    "customer": {
+      "name": "John",
+      "email": "john@gmail.com",
+      "password":"123456"
+    },
+    "shipping_address": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "line_1": "2nd Floor British India House",
+      "line_2": "15 Carliol Square",
+      "city": "Newcastle Upon Tyne",
+      "postcode": "NE1 6UF",
+      "county": "Tyne & Wear",
+      "country": "United Kingdom",
+      "phone": "123456789"
+    },
+    "billing_address": {
+      "first_name": "Karan",
+      "last_name": "Bednekar",
+      "line_1": "2nd Floor British India House",
+      "line_2": "15 Carliol Square",
+      "city": "Newcastle Upon Tyne",
+      "postcode": "NE1 6UF",
+      "county": "Tyne & Wear",
+      "country": "United Kingdom"
+    }
+  }]
