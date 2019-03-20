@@ -8215,10 +8215,10 @@ body.vjs-full-window {
 }
 .header-wrap .hd-logo a {
   display: block;
-  padding-top: 23px;
+  padding-top: 10px;
 }
 .header-wrap .hd-logo a img {
-  width: 100%;
+  max-width: 100%;
 }
 .header-wrap ul {
   line-height: 75px;
